@@ -3,3 +3,5 @@ This is part of the Responsive Web Design Course on [freeCodeCamp](https://www.f
 
 Learn html by building a cat phot app. 
 
+View the live website here: [Cafe Menu](https://wanjikuwanjiku.github.io/Freecodecamp-Projects/catPhotoApp)
+
