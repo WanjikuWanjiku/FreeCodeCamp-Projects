@@ -5,4 +5,4 @@ Freecodecamp Projects
 
 [Cafe Menu](https://wanjikuwanjiku.github.io/Freecodecamp-Projects/cafeMenu)
 
-[Survey Form] (https://wanjikuwanjiku.github.io/Freecodecamp-Projects/Survey-form)
+[Survey Form](https://wanjikuwanjiku.github.io/Freecodecamp-Projects/Survey-form)
